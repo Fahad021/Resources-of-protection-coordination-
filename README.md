@@ -1,6 +1,6 @@
 # Python-Based Power-System Protection Coordination Resources
 
-Here is a curated list of relevant resources for Python-based power-system protection coordination, with a short note for each repository and reference.[1][2][3]
+Here is a curated list of relevant resources for Python-based power-system protection coordination, with a short note for each repository and reference.
 
 ## GitHub repos
 
@@ -14,7 +14,7 @@ Here is a curated list of relevant resources for Python-based power-system prote
 
 - [dss-extensions/dss_python](https://github.com/dss-extensions/dss_python) — Native Python bindings for DSS-Extensions/OpenDSS, useful as a backend for custom protection-coordination workflows.[5]
 
-- [Energinet-SimTools/MTB](https://github.com/Energinet-SimTools/MTB/wiki/) — Contains PowerFactory automation utilities, including a Python script to extract relay data and settings from PowerFactory into Excel.[6]
+- [Energinet-SimTools/MTB](https://github.com/Energinet-SimTools/MTB/wiki) — Contains PowerFactory automation utilities, including a Python script to extract relay data and settings from PowerFactory into Excel.[6]
 
 - [YitianDai/Dynamic-cascading-failure-simulator](https://github.com/YitianDai/Dynamic-cascading-failure-simulator) — PowerFactory Python-API automation platform that includes functions to add and work with protection relays as part of cascading-failure studies.[7]
 
@@ -57,7 +57,7 @@ Only a small number of genuinely relevant public GitHub repos were identified; m
 [3] README.md - raheem-cs/Overcurrent-Relay-Coordination - GitHub https://github.com/raheem-cs/Overcurrent-Relay-Coordination/blob/main/README.md  
 [4] OpenDSSDirect.py/opendssdirect/CktElement.py at master · dss-extensions/OpenDSSDirect.py https://github.com/dss-extensions/OpenDSSDirect.py/blob/master/opendssdirect/CktElement.py  
 [5] Releases · dss-extensions/DSS-Python - GitHub https://github.com/dss-extensions/dss_python/releases  
-[6] Home https://github.com/Energinet-SimTools/MTB/wiki/  
+[6] Energinet-SimTools/MTB Wiki https://github.com/Energinet-SimTools/MTB/wiki  
 [7] GitHub - YitianDai/Dynamic-cascading-failure-simulator: A dynamic cascading failure simulation platform implemented in DIgSILENT PowerFactory via the Python API. It automatically develops cascading mechanisms, simulates sets of failure scenarios and processes results, and also has good scalability such that it can be easily applied to any power system model. https://github.com/YitianDai/Dynamic-cascading-failure-simulator  
 [8] Protection Relays | Evolve Python SDK Docs - GitHub Pages https://zepben.github.io/evolve/docs/python-sdk/next/sdk-protection/  
 [9] etapPy | ETAP Python API & IDE | Scripting & Study Automation with ... https://etap.com/product/etappy  
