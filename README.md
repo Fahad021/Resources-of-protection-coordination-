@@ -52,7 +52,7 @@ Only a small number of genuinely relevant public GitHub repos were identified; m
 
 ## Sources
 
-[1] sandialabs/Protection-settings-optimizer - GitHub - OSTI https://github.com/sandialabs/Protection-settings-optimizer  
+[1] sandialabs/Protection-settings-optimizer - https://github.com/sandialabs/Protection-settings-optimizer  
 [2] GitHub - imsaumil/pyDSS_GUI_NCSU_ABB: Distribution System Protection Simulator using Python and OpenDSS. https://github.com/imsaumil/pyDSS_GUI_NCSU_ABB  
 [3] README.md - raheem-cs/Overcurrent-Relay-Coordination - GitHub https://github.com/raheem-cs/Overcurrent-Relay-Coordination/blob/main/README.md  
 [4] OpenDSSDirect.py/opendssdirect/CktElement.py at master · dss-extensions/OpenDSSDirect.py https://github.com/dss-extensions/OpenDSSDirect.py/blob/master/opendssdirect/CktElement.py  
