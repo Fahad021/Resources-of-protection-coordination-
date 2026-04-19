@@ -59,7 +59,7 @@ Only a small number of genuinely relevant public GitHub repos were identified; m
 [5] Releases · dss-extensions/DSS-Python - GitHub https://github.com/dss-extensions/dss_python/releases  
 [6] Home https://github.com/Energinet-SimTools/MTB/wiki/  
 [7] GitHub - YitianDai/Dynamic-cascading-failure-simulator: A dynamic cascading failure simulation platform implemented in DIgSILENT PowerFactory via the Python API. It automatically develops cascading mechanisms, simulates sets of failure scenarios and processes results, and also has good scalability such that it can be easily applied to any power system model. https://github.com/YitianDai/Dynamic-cascading-failure-simulator  
-[8] Protection Relays | Docs in test - GitHub Pages https://zepben.github.io/evolve/docs/python-sdk/next/sdk-protection/  
+[8] Protection Relays | Evolve Python SDK Docs - GitHub Pages https://zepben.github.io/evolve/docs/python-sdk/next/sdk-protection/  
 [9] etapPy | ETAP Python API & IDE | Scripting & Study Automation with ... https://etap.com/product/etappy  
 [10] Adaptive Coordination of Time Overcurrent Relays (OCR) in a Radial Distribution Network with Distributed Generation using a Modified LINKNET Pairing Algorithm https://ieeexplore.ieee.org/document/10552953/  
 [11] [PDF] Nested Reinforcement Learning Based Control for Protective Relays ... https://arxiv.org/pdf/1906.10815.pdf  
