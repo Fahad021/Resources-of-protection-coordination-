@@ -12,7 +12,7 @@ Here is a curated list of relevant resources for Python-based power-system prote
 
 - [dss-extensions/OpenDSSDirect.py](https://github.com/dss-extensions/OpenDSSDirect.py) — Python interface to OpenDSS that exposes circuit elements and identifies whether a circuit element has an overcurrent protection device such as a relay, recloser, or fuse.[4]
 
-- [dss-extensions/DSS-Python](https://github.com/dss-extensions/dss_python) — Native Python bindings for DSS-Extensions/OpenDSS, useful as a backend for custom protection-coordination workflows.[5]
+- [dss-extensions/dss_python](https://github.com/dss-extensions/dss_python) — Native Python bindings for DSS-Extensions/OpenDSS, useful as a backend for custom protection-coordination workflows.[5]
 
 - [Energinet-SimTools/MTB](https://github.com/Energinet-SimTools/MTB/wiki/) — Contains PowerFactory automation utilities, including a Python script to extract relay data and settings from PowerFactory into Excel.[6]
 
@@ -48,7 +48,7 @@ If your goal is to get actual Python code quickly, start with these three:
 
 ## Notes
 
-Only a small number of genuinely relevant public GitHub repos were identified; many search results for “protection coordination Python” point to papers, commercial tool APIs, or broader simulation frameworks rather than standalone open-source coordination engines. The Sandia PSO repo is the most complete verified open-source Python codebase specifically for automated protection setting optimization and coordination.[6][10][2][1]
+Only a small number of genuinely relevant public GitHub repos were identified; many search results for “protection coordination Python” point to papers, commercial tool APIs, or broader simulation frameworks rather than standalone open-source coordination engines. The Sandia PSO repo is the most complete verified open-source Python codebase specifically for automated protection setting optimization and coordination.[1][2][6][10]
 
 ## Sources
 
